@@ -1,0 +1,71 @@
+This program plays the game of hangman.
+
+The computer will pick a random phrase.
+Enter letters for your guess.
+After 5 wrong guesses you lose.
+
+I am thinking of a Movie ...
+
+The current phrase is ******
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--S--T--U--V--W--X--Y--Z
+
+Enter your next guess: x
+
+You guessed X.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 1
+The current phrase is ******
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--S--T--U--V--W--Y--Z
+
+Enter your next guess: k
+
+You guessed K.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 2
+The current phrase is ******
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--L--M--N--O--P--Q--R--S--T--U--V--W--Y--Z
+
+Enter your next guess: j
+
+You guessed J.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 3
+The current phrase is ******
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--L--M--N--O--P--Q--R--S--T--U--V--W--Y--Z
+
+Enter your next guess: w
+
+You guessed W.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 4
+The current phrase is ******
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--L--M--N--O--P--Q--R--S--T--U--V--Y--Z
+
+Enter your next guess: g
+
+You guessed G.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 5
+You lose. The secret phrase was PSYCHO
+Do you want to play again?
+Enter 'Y' or 'y' to play again: n

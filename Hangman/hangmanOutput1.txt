@@ -1,0 +1,360 @@
+This program plays the game of hangman.
+
+The computer will pick a random phrase.
+Enter letters for your guess.
+After 5 wrong guesses you lose.
+
+I am thinking of a Movie ...
+
+The current phrase is ******
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--S--T--U--V--W--X--Y--Z
+
+Enter your next guess: S
+
+You guessed S.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 0
+The current phrase is *S****
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--T--U--V--W--X--Y--Z
+
+Enter your next guess: T
+
+You guessed T.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 1
+The current phrase is *S****
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: A
+
+You guessed A.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 2
+The current phrase is *S****
+
+The letters you have not guessed yet are: 
+B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: E
+
+You guessed E.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 3
+The current phrase is *S****
+
+The letters you have not guessed yet are: 
+B--C--D--F--G--H--I--J--K--L--M--N--O--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: O
+
+You guessed O.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 3
+The current phrase is *S***O
+
+The letters you have not guessed yet are: 
+B--C--D--F--G--H--I--J--K--L--M--N--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: U
+
+You guessed U.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 4
+The current phrase is *S***O
+
+The letters you have not guessed yet are: 
+B--C--D--F--G--H--I--J--K--L--M--N--P--Q--R--V--W--X--Y--Z
+
+Enter your next guess: I
+
+You guessed I.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 5
+You lose. The secret phrase was PSYCHO
+Do you want to play again?
+Enter 'Y' or 'y' to play again: Y
+
+I am thinking of a Movie ...
+
+The current phrase is *****
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--S--T--U--V--W--X--Y--Z
+
+Enter your next guess: S
+
+You guessed S.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 1
+The current phrase is *****
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--T--U--V--W--X--Y--Z
+
+Enter your next guess: t
+
+You guessed T.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 2
+The current phrase is *****
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: *
+
+* is not a valid guess.
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: _
+
+_ is not a valid guess.
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: a
+
+You guessed A.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 3
+The current phrase is *****
+
+The letters you have not guessed yet are: 
+B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: e
+
+You guessed E.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 4
+The current phrase is *****
+
+The letters you have not guessed yet are: 
+B--C--D--F--G--H--I--J--K--L--M--N--O--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: o
+
+You guessed O.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 4
+The current phrase is *O***
+
+The letters you have not guessed yet are: 
+B--C--D--F--G--H--I--J--K--L--M--N--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: i
+
+You guessed I.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 5
+You lose. The secret phrase was ROCKY
+Do you want to play again?
+Enter 'Y' or 'y' to play again: y
+
+I am thinking of a Movie ...
+
+The current phrase is **_************
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--S--T--U--V--W--X--Y--Z
+
+Enter your next guess: steam
+
+You guessed S.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 1
+The current phrase is **_************
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--T--U--V--W--X--Y--Z
+
+Enter your next guess: t
+
+You guessed T.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 1
+The current phrase is **_********T***
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: e
+
+You guessed E.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 1
+The current phrase is **_******E*T***
+
+The letters you have not guessed yet are: 
+A--B--C--D--F--G--H--I--J--K--L--M--N--O--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: a
+
+You guessed A.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 1
+The current phrase is *A_******E*T*A*
+
+The letters you have not guessed yet are: 
+B--C--D--F--G--H--I--J--K--L--M--N--O--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: o
+
+You guessed O.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 1
+The current phrase is *A_*O****E*T*A*
+
+The letters you have not guessed yet are: 
+B--C--D--F--G--H--I--J--K--L--M--N--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: i
+
+You guessed I.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 1
+The current phrase is *A_*O**I*E*TIA*
+
+The letters you have not guessed yet are: 
+B--C--D--F--G--H--J--K--L--M--N--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: s
+
+s is not a valid guess.
+The letters you have not guessed yet are: 
+B--C--D--F--G--H--J--K--L--M--N--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: a
+
+a is not a valid guess.
+The letters you have not guessed yet are: 
+B--C--D--F--G--H--J--K--L--M--N--P--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: r
+
+You guessed R.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 2
+The current phrase is *A_*O**I*E*TIA*
+
+The letters you have not guessed yet are: 
+B--C--D--F--G--H--J--K--L--M--N--P--Q--U--V--W--X--Y--Z
+
+Enter your next guess: c
+
+You guessed C.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 2
+The current phrase is *A_CO**I*E*TIA*
+
+The letters you have not guessed yet are: 
+B--D--F--G--H--J--K--L--M--N--P--Q--U--V--W--X--Y--Z
+
+Enter your next guess: m
+
+You guessed M.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 3
+The current phrase is *A_CO**I*E*TIA*
+
+The letters you have not guessed yet are: 
+B--D--F--G--H--J--K--L--N--P--Q--U--V--W--X--Y--Z
+
+Enter your next guess: l
+
+You guessed L.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 3
+The current phrase is LA_CO**I*E*TIAL
+
+The letters you have not guessed yet are: 
+B--D--F--G--H--J--K--N--P--Q--U--V--W--X--Y--Z
+
+Enter your next guess: n
+
+You guessed N.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 3
+The current phrase is LA_CON*I*ENTIAL
+
+The letters you have not guessed yet are: 
+B--D--F--G--H--J--K--P--Q--U--V--W--X--Y--Z
+
+Enter your next guess: f
+
+You guessed F.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 3
+The current phrase is LA_CONFI*ENTIAL
+
+The letters you have not guessed yet are: 
+B--D--G--H--J--K--P--Q--U--V--W--X--Y--Z
+
+Enter your next guess: d
+
+You guessed D.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 3
+The phrase is LA_CONFIDENTIAL.
+You win!!
+Do you want to play again?
+Enter 'Y' or 'y' to play again: n

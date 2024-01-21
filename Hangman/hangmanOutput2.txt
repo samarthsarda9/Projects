@@ -1,0 +1,132 @@
+This program plays the game of hangman.
+
+The computer will pick a random phrase.
+Enter letters for your guess.
+After 5 wrong guesses you lose.
+
+I am thinking of a Movie ...
+
+The current phrase is ******
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--P--Q--R--S--T--U--V--W--X--Y--Z
+
+Enter your next guess: p
+
+You guessed P.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 0
+The current phrase is P*****
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--Q--R--S--T--U--V--W--X--Y--Z
+
+Enter your next guess: p
+
+p is not a valid guess.
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--Q--R--S--T--U--V--W--X--Y--Z
+
+Enter your next guess: p
+
+p is not a valid guess.
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--Q--R--S--T--U--V--W--X--Y--Z
+
+Enter your next guess: p
+
+p is not a valid guess.
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--Q--R--S--T--U--V--W--X--Y--Z
+
+Enter your next guess: 3
+
+3 is not a valid guess.
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--Q--R--S--T--U--V--W--X--Y--Z
+
+Enter your next guess: +
+
++ is not a valid guess.
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--Q--R--S--T--U--V--W--X--Y--Z
+
+Enter your next guess: }
+
+} is not a valid guess.
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--Q--R--S--T--U--V--W--X--Y--Z
+
+Enter your next guess: s
+
+You guessed S.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 0
+The current phrase is PS****
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--Q--R--T--U--V--W--X--Y--Z
+
+Enter your next guess: t
+
+You guessed T.
+
+That is not present in the secret phrase.
+
+Number of wrong guesses so far: 1
+The current phrase is PS****
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--Q--R--U--V--W--X--Y--Z
+
+Enter your next guess: y
+
+You guessed Y.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 1
+The current phrase is PSY***
+
+The letters you have not guessed yet are: 
+A--B--C--D--E--F--G--H--I--J--K--L--M--N--O--Q--R--U--V--W--X--Z
+
+Enter your next guess: c
+
+You guessed C.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 1
+The current phrase is PSYC**
+
+The letters you have not guessed yet are: 
+A--B--D--E--F--G--H--I--J--K--L--M--N--O--Q--R--U--V--W--X--Z
+
+Enter your next guess: o
+
+You guessed O.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 1
+The current phrase is PSYC*O
+
+The letters you have not guessed yet are: 
+A--B--D--E--F--G--H--I--J--K--L--M--N--Q--R--U--V--W--X--Z
+
+Enter your next guess: h
+
+You guessed H.
+
+That is present in the secret phrase.
+
+Number of wrong guesses so far: 1
+The phrase is PSYCHO.
+You win!!
+Do you want to play again?
+Enter 'Y' or 'y' to play again: n
